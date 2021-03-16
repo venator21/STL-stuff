@@ -1,6 +1,4 @@
-//
 // Created by Piotr Brodzik on 06.05.2020.
-//
 
 #ifndef ARRAY_HPP
 #define ARRAY_HPP
